@@ -1,3 +1,5 @@
+![Palette](img/palette.png)
+
 # Haze
  Minimal Discord theme based on my own color palette, "Haze".
 
