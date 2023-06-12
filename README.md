@@ -1,5 +1,3 @@
-![Palette](img/palette.png)
-
 # Night Shade
  Minimal Discord theme based on my own color palette, [Night Shade](https://github.com/liferuin/night-shade).
 
