@@ -1,5 +1,5 @@
 /**
- * @name night-shade
+ * @name Night Shade
  * @description A darkened discord theme.
  * @author liferuin
  * @version 0.0.1
@@ -10,13 +10,13 @@
 /* a color picker should show up if you hover over the "hsl(x, y, z)" part */
 :root {
 	/* link color */
-	--link-color: hsl(234, 65%, 70%);
+	--link-color: hsl(234, 75%, 75%);
 	/* main accent color (mentions, folder icons, unread indicators) */
-	--accent-color: hsl(234, 25%, 65%);
+	--accent-color: hsl(234, 75%, 75%);
 	/* darker accent color (background of any accent items with text) */
-	--accent-background: hsl(234, 25%, 25%);
+	--accent-background: hsl(234, 25%, 30%);
 	/* even darker accent color (background of accent buttons when hover) */
-	--accent-background-2: hsl(234, 25%, 30%);
+	--accent-background-2: hsl(234, 25%, 25%);
 	/* even darker accent color (background of accent buttons when clicked) */
 	--accent-background-3: hsl(234, 25%, 20%);
 	/* background of mention text and messages that mention you */
@@ -28,25 +28,25 @@
 	/* header text for headers and certain text */
 	--header-text: hsl(234, 0%, 70%);
 	/* main text color (messages, titles, unread text/indicators) */
-	--primary-text: hsl(234, 0%, 70%);
+	--primary-text: hsl(235, 10%, 75%);
 	/* secondary text color (channels, descriptions, buttons) */
-	--secondary-text: hsl(234, 0%, 50%);
+	--secondary-text: hsl(225, 10%, 50%);
 	/* muted text color (input box placeholders, muted channels, message times) */
-	--muted-text: hsl(234, 15%, 30%);
+	--muted-text: hsl(234, 15%, 35%);
 	/* background of muted colored buttons on hover */
 	--muted-background-hover: hsl(234, 15%, 20%);
 	/* background of muted colored buttons on click */
 	--muted-background-active: hsl(234, 15%, 15%);
 	/* background of pretty much everything not using primary background */
-	--secondary-background: hsl(234, 12%, 12%);
+	--secondary-background: hsl(234, 15%, 13%);
 	/* main chat/channel list/member list background */
-	--primary-background: hsl(234, 10%, 10%);
+	--primary-background: hsl(230, 11%, 11%);
 	/* overlay background on stuff when hovered over */
 	--hover-modifier: hsl(234, 20%, 40%, 0.1);
 	/* overlay background on stuff when clicked or selected */
 	--active-modifier: hsl(234, 20%, 40%, 0.2);
 	/* overlay background on messages when hovered over */
-	--message-hover-modifier: hsl(234, 5%, 0%, 0.1);
+	--message-hover-modifier: hsl(230, 5%, 0%, 0.1);
 	/* radius of round corners */
 	--roundness: 16px;
 }

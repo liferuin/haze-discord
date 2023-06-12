@@ -23,6 +23,6 @@
             - Navigate to `Application Support\BetterDiscord\themes`.
 4. Open your Discord app and click on <kbd>⚙ `User Settings`</kbd>.
 5. Navigate to `Themes` under the `BetterDiscord` category.
-6. Enable `night-shade vX.X.X` by clicking the corresponding toggle switch.
-    - A popup should appear at the bottom saying that `night-shade has been enabled.`
-    - If `night-shade vX.X.X` is absent, click on `Open Themes Folder` at the top of the screen and double-check that you moved the `theme.css` file to the correct location.
+6. Enable `Night Shade vX.X.X` by clicking the corresponding toggle switch.
+    - A popup should appear at the bottom saying that `Night Shade has been enabled.`
+    - If `Night Shade vX.X.X` is absent, click on `Open Themes Folder` at the top of the screen and double-check that you moved the `theme.css` file to the correct location.
