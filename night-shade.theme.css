@@ -92,6 +92,7 @@
 	--button-secondary-background-hover: var(--muted-background-hover);
 	--button-secondary-background-active: var(--muted-background-active);
 	--modal-footer-background: var(--primary-background);
+	--header-primary: var(--header-text);
 
 	--search-popout-option-fade: none;
 	--search-popout-option-fade-hover: none;
@@ -360,3 +361,7 @@
 	transform: scale(1);
 }
 
+/* Join a Server button background */
+.rowContainer-3t7486 {
+	background-color: var(--secondary-background);
+}
