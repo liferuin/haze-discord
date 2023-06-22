@@ -3,6 +3,8 @@
 
  Based on [refact0r's Midnight theme](https://github.com/refact0r/midnight-discord).
 
+ <h3 align="center"><img src="img/screenshot.png" width="720px"></h3>
+
  ## Installation
  1. Install [BetterDiscord](https://betterdiscord.app/).
  2. Download [night-shade.theme.css](night-shade.theme.css).
